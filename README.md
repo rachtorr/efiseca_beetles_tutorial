@@ -2,13 +2,13 @@
 
 # Introduction to Ecological Forecasting: Hands on workshop for Forecasting NEON Beetle abundance
 
-This repo contains the files for following along with a workshop on forecasting Beetles. The code is in R, and there are two options for following along: 
+This repo contains the files for following along with a workshop on forecasting beetle abundance for the [NEON forecasting challenge](https://projects.ecoforecast.org/neon4cast-docs/Beetles.html). The code is in R, and there are two options for following along: 
 
 1. [Download the R script for using Rstudio on your personal computer](#Rstudio)
 2. [Use the .ipynb files for opening in Jupyter with an R kernel](##Jupyter)
 3. [Open the .ipynb file with Google Colab](#Google-colab)
 
-There are also two options for following the tutorial - one file for live coding (LiveCode), which is mostly blank so you can type along, and one file for running code that is pre-written (fullScript). We hope these options make the workshop accessible for those with little to no prior coding experience! 
+There are also two options for following the tutorial - one file for live coding (NEON_forecast_challenge_beetle_tutorial_LiveCode), which is mostly blank so you can type along, and one file for running code that is pre-written (NEON_forecast_challenge_beetle_tutorial_fullScript). We hope these options make the workshop accessible for those with little to no prior coding experience! 
 
 Whichever environment you work in, be sure to open the file before the workshop and install and load the packages  we will need in the tutorial: 
 
