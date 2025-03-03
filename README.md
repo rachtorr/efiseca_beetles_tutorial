@@ -2,7 +2,7 @@
 
 # Introduction to Ecological Forecasting: Hands on workshop for Forecasting NEON Beetle abundance
 
-This repo contains the files for following along with a workshop on forecasting beetle abundance for the [NEON forecasting challenge](https://projects.ecoforecast.org/neon4cast-docs/Beetles.html). The code is in R, and there are two options for following along: 
+This repo contains the files for following along with a workshop on forecasting beetle abundance for the [NEON forecasting challenge](https://projects.ecoforecast.org/neon4cast-docs/Beetles.html). The code is in R, and there are options for following along: 
 
 1. [Download the R script for using Rstudio on your personal computer](#Rstudio)
 2. [Use the .ipynb files for opening in Jupyter with an R kernel](##Jupyter)
@@ -48,9 +48,11 @@ library(score4cast)
 
 ## Google Colab
 
-- If you are not familiar with Rstudio or Jupyter, you can follow along in Google Colab using [this link](https://colab.research.google.com/drive/1DJcHUppFpZTGjL4s392xe6Gg1nbhYlpb?usp=sharing). All you need for this is a Gmail log-in. To save your changes, you will need to make a copy and save it to your Google drive. 
-
-- Read more about Google Colab [here](https://research.google.com/colaboratory/faq.html). 
+- If you are not familiar with Rstudio or Jupyter, you can follow along in Google Colab using [this link](https://colab.research.google.com/drive/1DJcHUppFpZTGjL4s392xe6Gg1nbhYlpb?usp=sharing). All you need for this is a Gmail log-in. To save your changes, you will need to make a copy and save it to your Google drive.
+- Use this link for follow along typing your own code: https://bit.ly/beetles-colab
+- Use this link if you want pre-written code to follow along: https://bit.ly/beetles-fullcode
+- Be sure to run the first code chunk, which installs packages, before joining the meeting! It is a bit slower in Colab and can take 5-10 minutes
+- Read more about Google Colab [here](https://research.google.com/colaboratory/faq.html).
 
 # Acknowledgements 
 
