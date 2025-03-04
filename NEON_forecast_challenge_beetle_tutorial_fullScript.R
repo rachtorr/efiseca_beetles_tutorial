@@ -309,8 +309,8 @@ fc_best_lm_efi %>%
 # 2023 is provisional and most sites do not yet have data reported
 targets_2022 <- targets %>% 
   dplyr::filter(
-    datetime >= "2023-01-01", 
-    datetime < "2024-01-01",
+    datetime >= "2022-01-01", 
+    datetime < "2023-01-01",
     variable == "abundance",
     observation > 0)
 
