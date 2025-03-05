@@ -56,7 +56,7 @@ library(score4cast)
 
 # Acknowledgements 
 
-This tutorial was used previously in an ESA workshop led by Eric Sokol, and was created for NEON (National Ecological Observatory Network). Data Tutorial: [Forecasting Beetle Richness and Abundance.](https://www.neonscience.org/resources/learning-hub/tutorials/neon-beetle-forecasting.)
+This tutorial was used previously in an ESA workshop led by Eric Sokol, and was created for NEON (National Ecological Observatory Network). Data Tutorial: [Forecasting Beetle Richness and Abundance.](https://github.com/eco4cast/unconf2023GroundBeetles/blob/main/tutorials/ESA2024/NEON_forecast_challenge_beetle_tutorial_ESA2024.md)
 It is based off of tutorials created by Freya Olsson for the NEON Forecasting Challenge Workshop and examples form Carl Boettiger for the Beetles Communities theme documentation.  
 
 This workshop was planned and hosted by the [Ecological Forecasting Initiative Student and Early Career Association](https://ecoforecast.org/student-and-early-career-association/).
